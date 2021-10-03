@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Plaer2 : MonoBehaviour
 {
-    public Rigidbody2D regidbody2; // Создаем ссылку на компонет элеманта. Нахрена?
+    public Rigidbody2D regidbody2; // Создаем ссылку на компонет элеманта.
     public float speed; //Создаем переменную для хранения скорости
     void Start()
     {
